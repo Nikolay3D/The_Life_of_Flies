@@ -30,3 +30,16 @@
 - Возможность динамически изменять параметры поля (размер и/или мухоемкость);
 - Индивидуальные прикольные иконки мух - приветствуются;
 - Любые усовершенствования делающие поведение мух более жизненным - приветствуется.
+
+---
+Создание поля: размер, мухоемкость
+![image](https://github.com/Nikolay3D/The_Life_of_Flies/blob/master/demo/board.gif)
+Добавление мух: влияние тупости и мухоемкости ячеек
+![image](https://github.com/Nikolay3D/The_Life_of_Flies/blob/master/demo/add%20flies.gif)
+Движение одной мухи, отображение информации
+![image](https://github.com/Nikolay3D/The_Life_of_Flies/blob/master/demo/one%20fly.gif)
+Расстановка мух вручную, траектория движения
+![image](https://github.com/Nikolay3D/The_Life_of_Flies/blob/master/demo/manual%20flies.gif)
+Случайное заполнение поля, добавление, удаление в процессе работы. Изменение размеров окна
+![image](https://github.com/Nikolay3D/The_Life_of_Flies/blob/master/demo/random%20flies.gif)
+
