@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/components/Fly.qml</file>
+        <file>qml/components/FlyCell.qml</file>
+        <file>qml/components/TwoColorBar.qml</file>
+        <file>qml/components/qmldir</file>
+        <file>qml/main.qml</file>
+        <file>img/fly__1.png</file>
+        <file>img/fly__2.png</file>
+        <file>img/fly__3.png</file>
+        <file>img/fly__4.png</file>
+        <file>img/fly__5.png</file>
+        <file>img/fly__6.png</file>
+        <file>img/fly__7.png</file>
+        <file>qml/components/FlyBoard.qml</file>
+        <file>img/fly_unknown.png</file>
+        <file>img/delete.png</file>
+        <file>img/fly-swatter.png</file>
+        <file>qml/components/ColorInterpolation/ColorInterpolation.qml</file>
+        <file>qml/components/ColorInterpolation/InterpolationStop.qml</file>
+        <file>qml/components/CircularProgressbar/CircularProgressBar.qml</file>
+        <file>img/eye2.png</file>
+    </qresource>
+</RCC>

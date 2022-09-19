@@ -1,0 +1,6 @@
+module components
+TwoColorBar 1.0 TwoColorBar.qml
+Fly 1.0 Fly.qml
+FlyCell 1.0 FlyCell.qml
+FlyBoard 1.0 FlyBoard.qml
+ImageButton 1.0 ImageButton.qml
